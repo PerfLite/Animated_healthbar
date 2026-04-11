@@ -1,0 +1,25 @@
+# Папки сборки
+build/
+out/
+target/
+bin/
+obj/
+Debug/
+Release/
+
+# Временные файлы
+*.tmp
+*.log
+*.class
+*.jar
+*.iml
+
+# IDE
+.idea/
+.vscode/
+.settings/
+*.iml
+
+# OS мусор
+.DS_Store
+Thumbs.db

@@ -1,0 +1,74 @@
+#Animated Health Bar - HUD Configuration
+[hud]
+
+	#=== Enable / Disable ===
+	[hud.toggles]
+		#Show animated HP bar
+		hp_bar = true
+		#Show HP numbers above the bar
+		hp_text = true
+		#Show animated Hunger bar
+		hunger_bar = true
+		#Show Hunger numbers above the bar
+		hunger_text = true
+		#Show animated Oxygen bar (when underwater)
+		oxygen_bar = true
+		#Show Oxygen numbers above the bar
+		oxygen_text = true
+		#Show armor icons
+		armor_icons = true
+
+	#=== HP Bar ===
+	[hud.hp_bar]
+		#X offset from default position
+		# Default: 0
+		# Range: -500 ~ 500
+		x_offset = 0
+		#Y offset from default position
+		# Default: 0
+		# Range: -500 ~ 500
+		y_offset = 0
+
+	#=== Hunger Bar ===
+	[hud.hunger_bar]
+		#X offset from default position
+		# Default: 0
+		# Range: -500 ~ 500
+		x_offset = 0
+		#Y offset from default position
+		# Default: 0
+		# Range: -500 ~ 500
+		y_offset = 0
+
+	#=== Oxygen Bar ===
+	[hud.oxygen_bar]
+		#X offset from default position
+		# Default: 0
+		# Range: -500 ~ 500
+		x_offset = 0
+		#Y offset from default position
+		# Default: 0
+		# Range: -500 ~ 500
+		y_offset = 0
+
+	#=== Armor Icons ===
+	[hud.armor]
+		#ABOVE_HP_BAR - above the HP bar
+		#LEFT_OF_HOTBAR - vertical column left of hotbar
+		#CUSTOM - use x_offset and y_offset
+		#Allowed Values: ABOVE_HP_BAR, LEFT_OF_HOTBAR, CUSTOM
+		position = "LEFT_OF_HOTBAR"
+		#Vertical (true) or horizontal (false)
+		vertical = true
+		#Size of each armor icon in pixels
+		# Default: 8
+		# Range: 4 ~ 32
+		icon_size = 8
+		#X offset (used when position=CUSTOM)
+		# Default: 0
+		# Range: -500 ~ 500
+		x_offset = 0
+		#Y offset (used when position=CUSTOM)
+		# Default: 0
+		# Range: -500 ~ 500
+		y_offset = 0

@@ -1,0 +1,21 @@
+{
+  "key.animatedhealthbar.open_editor": "Open HUD Editor",
+  "key.categories.animatedhealthbar": "Animated Health Bar",
+
+  "gui.animatedhealthbar.hud_editor": "HUD Editor",
+  "gui.animatedhealthbar.drag_hint": "Drag armor icons | Scroll to resize",
+  "gui.animatedhealthbar.toggles_header": "Toggles:",
+  "gui.animatedhealthbar.size": "Size: %s px",
+  "gui.animatedhealthbar.size_decrease": "Decrease size",
+  "gui.animatedhealthbar.size_increase": "Increase size",
+  "gui.animatedhealthbar.save": "Save",
+  "gui.animatedhealthbar.cancel": "Cancel",
+  "gui.animatedhealthbar.reset": "Reset",
+
+  "gui.animatedhealthbar.toggle_hp": "HP Bar",
+  "gui.animatedhealthbar.toggle_hp_text": "HP Numbers",
+  "gui.animatedhealthbar.toggle_hunger": "Hunger Bar",
+  "gui.animatedhealthbar.toggle_hunger_text": "Hunger Numbers",
+  "gui.animatedhealthbar.toggle_armor": "Armor Icons",
+  "gui.animatedhealthbar.toggle_armor_vertical": "Armor Vertical"
+}

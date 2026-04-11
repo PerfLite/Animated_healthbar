@@ -1,0 +1,21 @@
+{
+  "key.animatedhealthbar.open_editor": "Открыть редактор HUD",
+  "key.categories.animatedhealthbar": "Animated Health Bar",
+
+  "gui.animatedhealthbar.hud_editor": "Редактор HUD",
+  "gui.animatedhealthbar.drag_hint": "Перетащи иконки брони мышью | Скролл — размер",
+  "gui.animatedhealthbar.toggles_header": "Переключатели:",
+  "gui.animatedhealthbar.size": "Размер: %s пкс",
+  "gui.animatedhealthbar.size_decrease": "Уменьшить",
+  "gui.animatedhealthbar.size_increase": "Увеличить",
+  "gui.animatedhealthbar.save": "Сохранить",
+  "gui.animatedhealthbar.cancel": "Отмена",
+  "gui.animatedhealthbar.reset": "Сбросить",
+
+  "gui.animatedhealthbar.toggle_hp": "Полоска HP",
+  "gui.animatedhealthbar.toggle_hp_text": "Числа HP",
+  "gui.animatedhealthbar.toggle_hunger": "Полоска голода",
+  "gui.animatedhealthbar.toggle_hunger_text": "Числа голода",
+  "gui.animatedhealthbar.toggle_armor": "Иконки брони",
+  "gui.animatedhealthbar.toggle_armor_vertical": "Броня вертикально"
+}

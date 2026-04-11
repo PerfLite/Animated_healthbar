@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(jar *)",
+      "Bash(findstr *)",
+      "Bash(javap *)",
+      "Bash(del *)"
+    ]
+  },
+  "$version": 3
+}

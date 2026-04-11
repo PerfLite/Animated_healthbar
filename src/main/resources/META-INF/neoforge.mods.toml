@@ -1,0 +1,26 @@
+modLoader = "javafml"
+loaderVersion = "[4,)"
+license = "MIT"
+
+[[mods]]
+modId = "animatedhealthbar"
+version = "1.0"
+displayName = "Animated Health Bar"
+logoFile = "icon.png"
+description = '''
+Smooth animated health and hunger bars with potion effect colors.
+'''
+
+[[dependencies.animatedhealthbar]]
+modId = "neoforge"
+type = "required"
+versionRange = "[21.1,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.animatedhealthbar]]
+modId = "minecraft"
+type = "required"
+versionRange = "[1.21.1,)"
+ordering = "NONE"
+side = "BOTH"
