@@ -17,14 +17,6 @@ A NeoForge mod for Minecraft 1.21.1 that replaces the vanilla health and hunger 
 - **Hidden in Creative/Spectator** — bars are automatically hidden when not in survival mode
 - **Resource pack friendly** — all textures are easily replaceable
 
-## Compatibility
-
-| Minecraft | NeoForge | Status |
-|-----------|----------|--------|
-| 1.21.1    | 21.1.x   | ✅ Supported |
-
-## Screenshots
-
 > Health bar changes color based on active potion effects — wither, poison, freeze, fire, regeneration and absorption are all supported.
 
 ## License
