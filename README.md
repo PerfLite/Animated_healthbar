@@ -17,13 +17,6 @@ A NeoForge mod for Minecraft 1.21.1 that replaces the vanilla health and hunger 
 - **Hidden in Creative/Spectator** — bars are automatically hidden when not in survival mode
 - **Resource pack friendly** — all textures are easily replaceable
 
-## Installation
-
-1. Install [NeoForge 1.21.1](https://neoforged.net/)
-2. Download the mod `.jar` file
-3. Place it in your `mods` folder
-4. Launch the game!
-
 ## Compatibility
 
 | Minecraft | NeoForge | Status |
@@ -37,3 +30,4 @@ A NeoForge mod for Minecraft 1.21.1 that replaces the vanilla health and hunger 
 ## License
 
 MIT License — free to use in modpacks.
+https://modrinth.com/mod/animated-health-bar
