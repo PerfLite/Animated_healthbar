@@ -21,5 +21,5 @@ A NeoForge mod for Minecraft 1.21.1 that replaces the vanilla health and hunger 
 
 ## License
 
-MIT License — free to use in modpacks.
+GPL-3.0 License — free to use in modpacks.
 https://modrinth.com/mod/animated-health-bar
